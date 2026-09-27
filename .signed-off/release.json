@@ -1,0 +1,7 @@
+{ "programs": [
+  {
+    'id': 'test',
+    'type': 'github only',
+    'repos': ['signed-off-eng/hello:release.yml']
+  }
+] }
