@@ -1,0 +1,11 @@
+{
+  "products": [
+    {
+      "id": "hello",
+      "name": "Hello Sample",
+      "repos": ["hello"],
+      "service-repo": "second",
+      "prefix": "HELLO"
+    }
+  ]
+}
